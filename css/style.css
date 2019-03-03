@@ -1004,7 +1004,7 @@ blockquote {
 /* --------- 6.4 Gallery ---------- */
 
 #gallery img {
-    /* max-height: 300px; */
+     max-height: 316px;
 }
 
 #gallery [class*='col-'] {
