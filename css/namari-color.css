@@ -165,15 +165,15 @@ body {
 
 #banner h1 {
     font-family: 'Roboto', sans-serif;
-    font-size:90px;
-    line-height:105px;
+    font-size:70px;
+    line-height:70px;
     font-weight:900;
     color:#fff;
 }
 
 #banner h2 {
     font-family: 'Asap', sans-serif;
-    font-size:18px;
+    font-size:20px;
     font-weight:300;
     color:#fff;
 }
